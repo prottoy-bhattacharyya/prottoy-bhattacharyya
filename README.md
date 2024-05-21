@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prottoy-bhattacharyya
-- 👀 I’m interested in ... android codding
-- 🌱 I’m currently learning ...c,c++,css,html
+- 👀 I’m interested in ... backend codding
+- 🌱 I’m currently learning ...c,c++,python,java
 - 💞️ I’m looking to collaborate on ...with these codes.
-- 📫 How to reach me ...an android codding expert.
+- 📫 Reach me ; (My Email)[prottoybhattacharya@gmail.com]
 
 <!---
 prottoy-bhattacharyya/prottoy-bhattacharyya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
