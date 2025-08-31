@@ -1,7 +1,7 @@
 <a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=HELLO......;I+Am+Prottoy" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prottoy-bhattacharyya&label=Profile%20views&color=0e75b6&style=flat" alt="prottoy-bhattacharyya" /> </p>
+<p align="left"> <img target="_blank" src="https://komarev.com/ghpvc/?username=prottoy-bhattacharyya&label=Profile%20views&color=0e75b6&style=flat" alt="prottoy-bhattacharyya" /> </p>
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prottoy-bhattacharyya" alt="prottoy-bhattacharyya" /></a> </p>
 
