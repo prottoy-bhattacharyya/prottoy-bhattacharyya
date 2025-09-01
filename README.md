@@ -5,9 +5,9 @@
 
 <p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="prottoy-bhattacharyya" /></a> </p>
 
-- 🔭 I’m currently working on **Chat web application using flask and socketIO**
+- 🔭 I’m currently working on **Android File Sharing App using a Databasse**
 
-- 🌱 I’m currently learning **Flask, Django, Fast API**
+- 🌱 I’m currently learning **Django, Fast API**
 
 - 📫 How to reach me **prottoybhattacharya@gmail.com**
 
