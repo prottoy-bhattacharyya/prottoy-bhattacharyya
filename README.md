@@ -44,7 +44,7 @@
   <a href="https://www.facebook.com/prottoy.bhattacharyya.5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="mailto:prottoybhattacharya@gmail.com?subject=Website%20Inquiry&body=Hello%20,%0A%0AI%20am%20writing%20to%20you%20regarding..." target="_blank">
+  <a href="mailto:prottoybhattacharya@gmail.com?subject=Website%20Inquiry&body=Hello%20,%0A%0AI%20am%20writing%20to%20you%20regarding..." >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
