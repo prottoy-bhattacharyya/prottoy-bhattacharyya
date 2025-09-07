@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android File Sharing App using a Databasse**
 
-- 🌱 I’m currently learning **Django, Fast API**
+- 🌱 I’m currently learning **Django, Java, Android**
 
 - 📫 How to reach me **prottoybhattacharya@gmail.com**
 
