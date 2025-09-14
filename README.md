@@ -25,8 +25,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.android.com/"> <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"/> </a>
-<a href="https://www.java.com/en/"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/> </a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="Android"/> </a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/> </a>
 </p>
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prottoy-bhattacharyya&theme=dark" alt="GitHub Streak" /></a></div>
