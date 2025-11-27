@@ -40,13 +40,13 @@
 ###
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/prottoy-bhattacharya-4262aa286/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/prottoy-bhattacharya-4262aa286/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/prottoy.bhattacharyya.5" target="_blank">
+  <a target="_blank" href="https://www.facebook.com/prottoy.bhattacharyya.5">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="mailto:prottoybhattacharya@gmail.com?subject=Website%20Inquiry&body=Hello%20,%0A%0AI%20am%20writing%20to%20you%20regarding..." >
+  <a target="_blank" href="mailto:prottoybhattacharya@gmail.com?subject=Website%20Inquiry&body=Hello%20,%0A%0AI%20am%20writing%20to%20you%20regarding..." >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
