@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Django, Java, Android**
 
-- 📫 How to reach me **prottoybhattacharya@gmail.com**
+- 📫 How to reach me **prottoyvhattacharyya@gmail.com**
+
+- You can visit my <a href="https://portfolio.prottoy.jo3.org" target="_blank" rel="noopener">Portfolio Website</a> 
 
 <p align="left">
 </p>
@@ -45,7 +47,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/prottoy-bhattacharya-4262aa286/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a target="_blank" href="https://www.facebook.com/prottoy.bhattacharyya.5">
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=61586721194469">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a target="_blank" href="mailto:prottoybhattacharya@gmail.com?subject=Website%20Inquiry&body=Hello%20,%0A%0AI%20am%20writing%20to%20you%20regarding..." >
